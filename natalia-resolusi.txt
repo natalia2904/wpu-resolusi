@@ -1,5 +1,0 @@
-Halo pak, sam=lam kenal nama saya Natalia dari Pontianak
-
-Resolusi Saya :
-- Membuat website menggunakan framework javascript
-- Bekerja di start-up
